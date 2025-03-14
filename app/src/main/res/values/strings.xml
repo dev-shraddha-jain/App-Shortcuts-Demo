@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Shortcuts Demo</string>
+    <string name="compose_shortcut_short_label">Open App</string>
+    <string name="compose_shortcut_long_label">Open demo feature app\n</string>
+</resources>
